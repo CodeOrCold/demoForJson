@@ -28,7 +28,7 @@ public class LoadNoteController {
 		
 		list.add(n1);
 		list.add(n2);
-		
+		System.out.println("kleqwjl");
 		return list;
 	}
 	
